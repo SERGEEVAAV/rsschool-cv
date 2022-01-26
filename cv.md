@@ -13,7 +13,7 @@
 - HTML
 - CSS
 - JavaScript(Basic)
-- Git
+- Git [SERGEEVAAV](https://github.com/SERGEEVAAV)
 
 
 ## Code Example
