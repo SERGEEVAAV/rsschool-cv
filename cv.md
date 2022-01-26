@@ -4,7 +4,7 @@
 - Location: Kazan, Respublic Tatarstan
 - Phone: 89991627806
 - Email: Anastasiapv@bk.ru
-- GitHud: https://github.com/SERGEEVAAV
+- GitHud: [SERGEEVAAV](https://github.com/SERGEEVAAV)
 
 ## About Me
 
@@ -13,7 +13,7 @@
 - HTML
 - CSS
 - JavaScript(Basic)
-- Git [SERGEEVAAV](https://github.com/SERGEEVAAV)
+- Git 
 
 
 ## Code Example
