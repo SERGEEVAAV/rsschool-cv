@@ -29,3 +29,16 @@
   
   }
 ```
+
+## Experience
+
+
+## Education
+- University: Kazan National Research Technical University A.N. Tupolev-KAI, aircraft-helicopter construction engineer.
+- Courses:
+   - Innopolis.University, 'Basics of front-end development'
+ 
+ 
+ ## English
+ Beginner (A1)
+
