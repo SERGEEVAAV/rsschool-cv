@@ -41,6 +41,6 @@
  
  
  ## English
- Beginner (A1)
- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+* Beginner (A1)
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
