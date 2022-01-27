@@ -38,6 +38,7 @@
 - University: Kazan National Research Technical University A.N. Tupolev-KAI, aircraft-helicopter construction engineer.
 - Courses:
    - Innopolis.University, 'Basics of front-end development'
+   - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
  
  
  ## English
