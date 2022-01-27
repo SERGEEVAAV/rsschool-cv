@@ -1,4 +1,4 @@
-# rsschool-cv superrr
+# My project
 My CV 
 
 
