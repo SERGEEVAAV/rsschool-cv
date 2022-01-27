@@ -7,7 +7,7 @@
 - GitHud: [SERGEEVAAV](https://github.com/SERGEEVAAV)
 
 ## About Me
-<p> I have good </p>
+<p> I am 37 years old and have been working as a design engineer for 13 years. I am here to gain new knowledge and successfully apply it in practice. </p>
 
 ## Skills
 - HTML
