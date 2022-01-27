@@ -1,3 +1,5 @@
 # rsschool-cv superrr
-My CV </br>
-https://SERGEEVAAV.github.io/rsschool-cv/cv
+My CV 
+
+
+* https://SERGEEVAAV.github.io/rsschool-cv/cv
