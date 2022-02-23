@@ -2,4 +2,4 @@
 My CV 
 
 
-* https://SERGEEVAAV.github.io/rsschool-cv/cv
+* https://SERGEEVAAV.github.io/rsschool-cv/
