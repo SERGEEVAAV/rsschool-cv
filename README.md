@@ -1,2 +1,4 @@
-# rsschool-cv superrr
+# rsschool-cv 
 My CV
+
+<https://SERGEEVAAV.github.io/rsschool-cv/cv>
