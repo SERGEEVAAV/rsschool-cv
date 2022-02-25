@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # My project
 My CV 
 
@@ -18,6 +19,9 @@ My CV
 =======
 # rsschool-cv </br>
 My project </br>
+=======
+# My project </br>
+>>>>>>> 728e325 (fix:name change)
 My CV </br>
 <<<<<<< HEAD
 >>>>>>> 5dc2890 (fix: Bug fix)
