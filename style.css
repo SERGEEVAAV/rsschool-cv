@@ -1,26 +1,24 @@
 * {
     box-sizing: border-box;
     
-    
 }
-
-
 
 body, html {
   height: 100%;
   font-family: 'Roboto', sans-serif;
+  font-weight: 300;
 }
+
+
 .parent {
     width:100%;
     height: 100%;
     position: absolute;
     top: 0;
     left: 0;
-    margin: 0 auto;
-    overflow: auto;    
-    
+    margin: 0 auto;       
     background: #FEF9C7;
-    color: #AAA0A0;
+    color: #696969;
 }
 
 .blok {
@@ -31,22 +29,22 @@ body, html {
     
 }
 
-#main {
+.main {
     display: flex;
     min-height: calc(100vh - 17vh);
 }
 
-#main > article {
+.main > article {
     flex: 1;
 }
 
-#main > aside {
+.main > aside {
     flex: 0 0 20vh;
     
     background: #FCE181;
 }
 
-#main > aside {
+.main > aside {
     order: -1;
 }
 
@@ -92,6 +90,7 @@ li {
 .nav-item a {
     text-decoration: none;
     color: #D79922; /*Цвет обычной ссылки*/
+    color: #696969;
     padding: 10px; /*Поля вокруг текста*/
   }
   
@@ -165,7 +164,7 @@ h1 {
   }
   
 .link a {
-  color: #AAA0A0;
+  color:#696969;
   text-decoration: none; /*Убираем подчеркивание*/
 
 }
