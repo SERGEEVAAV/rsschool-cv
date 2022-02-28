@@ -1,5 +1,3 @@
-# My project
-My CV 
-
-
-* https://SERGEEVAAV.github.io/rsschool-cv/cv
+# My project </br>
+My CV </br>
+<https://SERGEEVAAV.github.io/rsschool-cv/>
