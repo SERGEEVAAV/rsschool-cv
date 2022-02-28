@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # My project
 My CV 
 
@@ -30,3 +31,8 @@ My CV </br>
 =======
 <https://SERGEEVAAV.github.io/rsschool-cv/cv>
 >>>>>>> 85f58e9 (fix: changed the link)
+=======
+# My project </br>
+My CV </br>
+<https://SERGEEVAAV.github.io/rsschool-cv/>
+>>>>>>> b6d995f (fix:made changes)
