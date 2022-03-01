@@ -115,10 +115,14 @@ header {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 .footer {
 =======
 footer {
 >>>>>>> 45f9d19 (fix:error correction)
+=======
+.footer {
+>>>>>>> 74a2833 (refactor:improving the algorithm without changing the functionality)
     
     background: #D79922;
     height: 10vh;
