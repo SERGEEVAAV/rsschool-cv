@@ -1,0 +1,33 @@
+.navigation {
+    display: flex;
+    float: right;
+    // margin-right: 90px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.0rem;
+    line-height: 5.0rem;  
+    
+}
+
+.navigation__link {
+    list-style: none;
+    padding: 0 30px;
+    color: #ffffff;
+    cursor: pointer;
+    @extend %transition;
+    &:hover {
+        color: $color-brand;
+    }
+    
+}
+
+.heder_navigation {
+    
+    @include media-mobile {
+        display: none;
+
+    }
+
+}
+

@@ -1,0 +1,200 @@
+html {
+  font-size: 10px;
+}
+
+body {
+  font-size: 1.5rem;
+  font-family: "Arial", Helvetica, sans-serif;
+}
+
+h1 {
+  font-family: "Georgia", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 110%;
+}
+
+h2 {
+  font-family: "Georgia", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 44px;
+  line-height: 130%;
+}
+
+h3 {
+  font-family: "Georgia", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+}
+
+p {
+  font-family: "Arial", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 160%;
+}
+
+.donation-description {
+  font-family: "Arial";
+  font-style: italic;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+.subtitile {
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 15px;
+}
+
+.button {
+  height: 52px;
+  transition: all 0.3s;
+}
+
+.button__colored {
+  width: 207px;
+  background: #F1CDB3;
+  border: none;
+  border-radius: 10rem;
+}
+
+.button__bordered {
+  width: 187px;
+  background: #ffffff;
+  border: 2px solid #F1CDB3;
+  color: #292929;
+  border-radius: 10rem;
+}
+
+.button__colored:hover {
+  background: #FDDCC4;
+  color: #292929;
+}
+
+.button__bordered:hover {
+  background: #FDDCC4;
+  color: #292929;
+}
+
+.wrapper {
+  max-width: 1280px;
+  margin: auto;
+}
+
+.header {
+  padding: 60px 40px;
+}
+
+.header__logo {
+  float: left;
+}
+
+.header__navigation {
+  float: right;
+}
+
+.navigation {
+  display: flex;
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 160%;
+}
+
+.navigation__link {
+  list-style: none;
+  padding: 0 35px;
+  cursor: pointer;
+}
+
+.donation {
+  background: #F6F6F6;
+}
+
+.card {
+  background: #F6F6F6;
+  height: 877px;
+}
+
+.card__color {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card__shadowed {
+  width: 270px;
+  height: 435px;
+  margin: 0 40px 60px 40px;
+  background: #FAFAFA;
+}
+
+.card__title {
+  width: 400px;
+  height: 90px;
+  text-align: center;
+}
+
+.promo {
+  padding: 180px 40px 0 40px;
+}
+
+.promo__wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.promo__content {
+  width: 460px;
+  padding-left: 42px;
+}
+
+.promo__title {
+  width: 310px;
+}
+
+.promo__text {
+  padding-bottom: 42px;
+}
+
+.promo__image {
+  padding-right: 40px;
+}
+
+.about__wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 80px 40px 100px 40px;
+}
+
+.about__content {
+  width: 430px;
+}
+
+.about__image {
+  padding: 0 120px 0 175px;
+}
+
+.about__content {
+  padding: 14px 175px 14px 120px;
+}
+
+.about__title {
+  width: 370px;
+}
+
+.about__text {
+  padding-bottom: 25px;
+}
+
+/*# sourceMappingURL=style.css.map */

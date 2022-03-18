@@ -1,0 +1,23 @@
+.button {
+    width: 360px;
+    height: 75px;   
+    border-radius: 10px;   
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 2.2rem;
+    line-height: 2.6rem;
+    border: none;
+    cursor: pointer;
+}
+.button__colored {
+    background: #710707;
+    color: #ffffff;
+    // >*:hover {
+    //     background: #9d8665;
+    // }
+
+}
+.button__colored:hover {
+    background: #9d8665;
+}

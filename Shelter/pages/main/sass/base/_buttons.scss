@@ -1,0 +1,31 @@
+.button {
+    height: 52px;
+    transition: all .3s;
+
+}
+
+.button__colored {
+    width: 207px;
+    background: #F1CDB3;
+    border: none;
+    border-radius: 10.0rem;
+}
+
+.button__bordered {
+    width: 187px;
+    background: #ffffff;
+    border: 2px solid  #F1CDB3;
+    color: #292929;
+    border-radius: 10.0rem;
+}
+
+.button__colored:hover {
+    background: #FDDCC4;
+    color:#292929;
+
+}
+
+.button__bordered:hover {
+    background: #FDDCC4;
+    color:#292929;
+}

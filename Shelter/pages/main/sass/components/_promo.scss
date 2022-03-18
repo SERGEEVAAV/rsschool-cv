@@ -1,0 +1,25 @@
+.promo {
+    padding: 180px 40px 0 40px;
+}
+
+.promo__wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.promo__content {
+    width: 460px;
+    padding-left: 42px;
+}
+
+.promo__title {
+    width: 310px;
+}
+
+.promo__text {
+    padding-bottom: 42px;
+}
+
+.promo__image {
+    padding-right: 40px;
+}

@@ -1,0 +1,145 @@
+h1 {
+  font-family: "Forum", sans-serif;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 35px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+}
+
+h4 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 22px;
+  line-height: 26px;
+}
+
+p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 18px;
+  line-height: 21px;
+}
+
+.button {
+  width: 360px;
+  height: 75px;
+  border-radius: 10px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 2.2rem;
+  line-height: 2.6rem;
+  border: none;
+  cursor: pointer;
+}
+
+.button__colored {
+  background: #710707;
+  color: #ffffff;
+}
+
+.button__colored:hover {
+  background: #9d8665;
+}
+
+h1 {
+  font-size: 80px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 90px;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.picture-explore {
+  background: #9d8665;
+}
+
+.header {
+  background: #030303;
+  padding: 62px 0 62px 0;
+}
+
+.header__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navigation {
+  display: flex;
+  font-size: 2.2rem;
+  line-height: 2.6rem;
+  margin: 60px 0 60px 0;
+  width: 775px;
+  height: 26px;
+}
+
+.navigation__link {
+  list-style: none;
+  color: #ffffff;
+  padding: 0 55px;
+  cursor: pointer;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 22px;
+  line-height: 26px;
+  letter-spacing: 2px;
+  transform: rotate(0.24deg);
+}
+
+.navigation__link:hover {
+  color: #9d8665;
+}
+
+.header__image:hover {
+  cursor: pointer;
+}
+
+.promo {
+  background: #030303;
+}
+
+.promo__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.promo__title {
+  font-family: "Forum", sans-serif;
+  font-style: normal;
+  color: #ffffff;
+  margin-bottom: 25px;
+  font-weight: normal;
+  font-size: 80px;
+  line-height: 90px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+}
+
+.promo__text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 28px;
+  line-height: 33px;
+  letter-spacing: 2px;
+  color: #ffffff;
+  margin-bottom: 75px;
+}
+
+/*# sourceMappingURL=style.css.map */

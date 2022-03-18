@@ -1,0 +1,25 @@
+.card {
+    background: $color-backraund;
+    height: 877px;
+}
+
+.card__color {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card__shadowed {
+    width: 270px;
+    height: 435px;
+    margin: 0 40px 60px 40px;
+    background: $color-card;
+    
+}
+
+.card__title {
+    width: 400px;
+    height: 90px;
+   
+    text-align: center;
+}
