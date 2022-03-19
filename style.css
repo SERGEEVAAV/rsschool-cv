@@ -1,0 +1,176 @@
+* {
+    box-sizing: border-box;
+    
+}
+
+body, html {
+  /* height: 100%; */
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+
+.parent {
+    width:100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0 auto;       
+    background: #FEF9C7;
+    color: #696969;
+}
+
+.blok {
+    width:900px;    
+    position: relative;
+    margin: 0 auto;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22)     
+    
+}
+
+.main {
+    display: flex;
+    min-height: calc(100vh - 17vh);
+}
+
+.main > article {
+    flex: 1;
+    background: #FEF9C7;
+}
+
+.main > aside {
+    flex: 0 0 20vh;
+    
+    background: #FCE181;
+}
+
+.main > aside {
+    order: -1;
+}
+
+header, footer, article {
+
+    padding: 1em;
+}
+
+aside {
+  padding: 0 10px;
+}
+
+header {
+  background: #FCE181;
+    height: 7vh;
+}
+
+.footer {
+    
+    background: #D79922;
+    height: 10vh;
+
+}
+
+.nav-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;      
+   
+}    
+.nav-link{
+  padding: 0 20px;
+  line-height: 30px;
+}
+
+li {
+    padding: 5px;
+}
+
+
+
+.nav-item a {
+    text-decoration: none;
+    color: #D79922; /*Цвет обычной ссылки*/
+    color: #696969;
+    padding: 10px; /*Поля вокруг текста*/
+  }
+  
+.nav-item a:hover {
+    text-decoration: none; /*Убираем подчеркивание*/
+    color: #D79922; /*Цвет ссылки принаведении на нее курсора мыши*/
+    background: #FEF9C7; /*Цвет фона*/
+  }
+
+h1 {
+    font-size: 45px;
+}
+
+.container {
+    display: flex;
+    min-height: 5px;
+    
+    
+    
+  }
+  .dark_brown {
+    background: #AAA0A0;
+    
+    flex-grow: 1;
+  }
+  .orange {
+    order: -1;
+    background: #D79922;
+    
+  }
+  .container > div {
+    font-size: 5px;
+    padding-left: 30px;
+    
+  }
+  
+
+  .list-contact {
+      list-style: none; 
+      padding: 0 1px 0 1px;
+           
+     
+  }
+
+    .icone  {
+     
+      box-shadow: 0 0 5px 2px #D79922; 
+      width: 16px;
+      margin-right: 10px;
+
+   }
+
+ 
+
+  .wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+  }
+  
+  .wrapper-item{
+    padding: 0;
+    margin: 0;
+    color: black;
+   
+    
+  }
+  
+.link a {
+  color:#696969;
+  text-decoration: none; /*Убираем подчеркивание*/
+
+}
+  
+  
+ 
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+}
+
